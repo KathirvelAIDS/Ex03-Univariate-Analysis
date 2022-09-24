@@ -2,6 +2,8 @@
 
 
 AIM
+
+
 To perform Univariate EDA on the given data set
 
 
@@ -127,9 +129,6 @@ Distribution of Data
 
 ![image](https://user-images.githubusercontent.com/94911373/192078968-25fa06f1-04cb-43ff-af60-dab7916e99d4.png)
 
-
-
-![image](https://user-images.githubusercontent.com/94911373/192078981-7dbaea8d-a49d-4332-9eab-fe193c642aaa.png)
 
 
 
