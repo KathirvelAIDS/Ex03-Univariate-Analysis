@@ -156,10 +156,6 @@ Univariate Analysis
 
 
 
-![image](https://user-images.githubusercontent.com/94911373/192079016-97f4c35d-251d-4aa3-96c1-285cbf0298cf.png)
-
-
-
 ![image](https://user-images.githubusercontent.com/94911373/192079019-72242535-d41e-4098-b8fd-d652d5a2c2be.png)
 
 
