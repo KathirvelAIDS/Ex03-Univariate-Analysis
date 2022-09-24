@@ -111,7 +111,6 @@ Finding null values and cleaning it:
 ![image](https://user-images.githubusercontent.com/94911373/192078914-e4c27bbb-8ed2-4421-add3-3de57c1b892c.png)
 
 
-![image](https://user-images.githubusercontent.com/94911373/192078934-a80a9b75-05d1-4963-a9c6-843f3f33caa0.png)
 
 
 
