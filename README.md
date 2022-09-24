@@ -6,7 +6,8 @@ To perform Univariate EDA on the given data set
 
 
 
-Explanation
+Explanation:
+
 Exploratory data analysis is used to understand the messages within a dataset. This technique involves many iterative processes to ensure that the cleaned data is further sorted to better understand the useful meaning.The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis
 
 
@@ -41,13 +42,13 @@ Save the final data set into the file
 
 
 PROGRAM:
-
+~~~
 NAME:KATHURVEL.A
 REG NO:212221230047
-
 ~~~
 
 
+~~~
 import pandas as pd
 import numpy as np
 import seaborn as snb
@@ -82,3 +83,106 @@ EDA - SuperStore.csv
 
 
 ![image](https://user-images.githubusercontent.com/94911373/192078824-6ec9f43a-0d49-4247-b72c-268f62c06c56.png)
+
+
+
+Displaying information about Dataset
+
+
+![image](https://user-images.githubusercontent.com/94911373/192078873-96983e0b-e8f0-42f5-aaa3-67078f47d4a5.png)
+
+
+![image](https://user-images.githubusercontent.com/94911373/192078879-efe9e46e-d82e-4e3d-a5e8-111118761a9b.png)
+
+
+![image](https://user-images.githubusercontent.com/94911373/192078897-e98051e9-35f6-4c89-a4d2-377c2245501a.png)
+
+
+
+
+
+
+Finding null values and cleaning it:
+
+
+
+![image](https://user-images.githubusercontent.com/94911373/192078914-e4c27bbb-8ed2-4421-add3-3de57c1b892c.png)
+
+
+![image](https://user-images.githubusercontent.com/94911373/192078934-a80a9b75-05d1-4963-a9c6-843f3f33caa0.png)
+
+
+
+
+Value counts of "Postal Code"
+
+
+
+![image](https://user-images.githubusercontent.com/94911373/192078953-0ebb219c-7854-44ce-8060-d824e1103612.png)
+
+
+
+
+Distribution of Data
+
+![image](https://user-images.githubusercontent.com/94911373/192078968-25fa06f1-04cb-43ff-af60-dab7916e99d4.png)
+
+
+
+![image](https://user-images.githubusercontent.com/94911373/192078981-7dbaea8d-a49d-4332-9eab-fe193c642aaa.png)
+
+
+
+
+Univariate Analysis
+
+
+![image](https://user-images.githubusercontent.com/94911373/192078995-a0f5c31e-00a5-4d06-a030-216d4ee931da.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/94911373/192078998-8aa29f5e-0a91-4a71-bc53-b955dbf06811.png)
+
+
+
+![image](https://user-images.githubusercontent.com/94911373/192079004-4a082596-03d1-4f05-9e62-149a8d7d99ea.png)
+
+
+
+![image](https://user-images.githubusercontent.com/94911373/192079008-2fa09260-0d1a-4f6d-bd72-2a6bfea2816d.png)
+
+
+
+![image](https://user-images.githubusercontent.com/94911373/192079011-6ab82e52-4dbf-4b8a-9f15-273b3f3bd697.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/94911373/192079016-97f4c35d-251d-4aa3-96c1-285cbf0298cf.png)
+
+
+
+![image](https://user-images.githubusercontent.com/94911373/192079019-72242535-d41e-4098-b8fd-d652d5a2c2be.png)
+
+
+
+![image](https://user-images.githubusercontent.com/94911373/192079026-35893d46-4287-469c-84d4-5103be79e6a6.png)
+
+
+
+![image](https://user-images.githubusercontent.com/94911373/192079059-e5f7d132-5f0f-4fea-816a-a02e9958b1e6.png)
+
+
+
+![image](https://user-images.githubusercontent.com/94911373/192079066-dc457d52-797a-43ab-b230-fe492cb4a5e3.png)
+
+
+
+RESULT:
+
+Thus the program to perform EDA on the given data set is successfully executed
+
+
+
+
